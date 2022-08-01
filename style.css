@@ -1,0 +1,38 @@
+*
+body{
+    font-family:  ;
+    background-color: #575454;
+    color:#fff;
+}
+.heading{
+    text-align:center;
+    font-size: 45px;
+ 
+}
+.container{
+    background-color: #696868;
+    text-align: center;
+
+}
+.btn-info{
+    width:50%;
+    letter-spacing: 2px;
+    background: transparent;
+    transition: all 0.5s ease-in-out;
+}
+.btn-info hover{
+    transform:scale(1.05);
+
+}
+.icn{
+    font-family: ;
+    font-size: 30px;
+}
+br{
+    width:50%
+}
+ div iframe{
+    width:30px;
+    height:10px;
+    background: #fff;
+ }
